@@ -1,4 +1,4 @@
-# CodeAlpha Internship – Python / AI Projects
+# CodeAlpha Internship – Aritificial Intelligence Internship
 
 This repository contains all three projects completed during the CodeAlpha Internship Program. Each task focuses on applying Python, Machine Learning, NLP, and UI development skills.
 
